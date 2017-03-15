@@ -1,0 +1,28 @@
+{"name":"hexo","hostname":"bogon","pid":27841,"level":20,"msg":"Hexo version: \u001b[35m3.2.2\u001b[39m","time":"2017-03-15T10:21:09.768Z","v":0}
+{"name":"hexo","hostname":"bogon","pid":27841,"level":20,"msg":"Working directory: \u001b[35m~/Blog/blog/\u001b[39m","time":"2017-03-15T10:21:09.771Z","v":0}
+{"name":"hexo","hostname":"bogon","pid":27841,"level":20,"msg":"Config loaded: \u001b[35m~/Blog/blog/_config.yml\u001b[39m","time":"2017-03-15T10:21:09.865Z","v":0}
+{"name":"hexo","hostname":"bogon","pid":27841,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/merge-configs.js\u001b[39m","time":"2017-03-15T10:21:09.898Z","v":0}
+{"name":"hexo","hostname":"bogon","pid":27841,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/merge.js\u001b[39m","time":"2017-03-15T10:21:09.905Z","v":0}
+{"name":"hexo","hostname":"bogon","pid":27841,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/button.js\u001b[39m","time":"2017-03-15T10:21:09.906Z","v":0}
+{"name":"hexo","hostname":"bogon","pid":27841,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/center-quote.js\u001b[39m","time":"2017-03-15T10:21:09.906Z","v":0}
+{"name":"hexo","hostname":"bogon","pid":27841,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/exturl.js\u001b[39m","time":"2017-03-15T10:21:09.908Z","v":0}
+{"name":"hexo","hostname":"bogon","pid":27841,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/full-image.js\u001b[39m","time":"2017-03-15T10:21:09.908Z","v":0}
+{"name":"hexo","hostname":"bogon","pid":27841,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/group-pictures.js\u001b[39m","time":"2017-03-15T10:21:09.910Z","v":0}
+{"name":"hexo","hostname":"bogon","pid":27841,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/note.js\u001b[39m","time":"2017-03-15T10:21:09.910Z","v":0}
+{"name":"hexo","hostname":"bogon","pid":27841,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-deployer-git\u001b[39m","time":"2017-03-15T10:21:09.912Z","v":0}
+{"name":"hexo","hostname":"bogon","pid":27841,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-archive\u001b[39m","time":"2017-03-15T10:21:09.914Z","v":0}
+{"name":"hexo","hostname":"bogon","pid":27841,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-category\u001b[39m","time":"2017-03-15T10:21:09.915Z","v":0}
+{"name":"hexo","hostname":"bogon","pid":27841,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-index\u001b[39m","time":"2017-03-15T10:21:09.917Z","v":0}
+{"name":"hexo","hostname":"bogon","pid":27841,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-tag\u001b[39m","time":"2017-03-15T10:21:09.918Z","v":0}
+{"name":"hexo","hostname":"bogon","pid":27841,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-ejs\u001b[39m","time":"2017-03-15T10:21:09.921Z","v":0}
+{"name":"hexo","hostname":"bogon","pid":27841,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-jade\u001b[39m","time":"2017-03-15T10:21:10.164Z","v":0}
+{"name":"hexo","hostname":"bogon","pid":27841,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-marked\u001b[39m","time":"2017-03-15T10:21:10.169Z","v":0}
+{"name":"hexo","hostname":"bogon","pid":27841,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-pug\u001b[39m","time":"2017-03-15T10:21:10.332Z","v":0}
+{"name":"hexo","hostname":"bogon","pid":27841,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-sass\u001b[39m","time":"2017-03-15T10:21:10.342Z","v":0}
+{"name":"hexo","hostname":"bogon","pid":27841,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-stylus\u001b[39m","time":"2017-03-15T10:21:10.343Z","v":0}
+{"name":"hexo","hostname":"bogon","pid":27841,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-server\u001b[39m","time":"2017-03-15T10:21:10.400Z","v":0}
+{"name":"hexo","hostname":"bogon","pid":27841,"level":30,"msg":"Deploying: \u001b[35mgit\u001b[39m","time":"2017-03-15T10:21:10.402Z","v":0}
+{"name":"hexo","hostname":"bogon","pid":27841,"level":30,"msg":"Clearing .deploy_git folder...","time":"2017-03-15T10:21:10.409Z","v":0}
+{"name":"hexo","hostname":"bogon","pid":27841,"level":30,"msg":"Copying files from public folder...","time":"2017-03-15T10:21:10.426Z","v":0}
+{"name":"hexo","hostname":"bogon","pid":27841,"level":30,"msg":"Deploy done: \u001b[35mgit\u001b[39m","time":"2017-03-15T10:21:15.478Z","v":0}
+{"name":"hexo","hostname":"bogon","pid":27841,"level":20,"msg":"Database saved","time":"2017-03-15T10:21:15.480Z","v":0}
